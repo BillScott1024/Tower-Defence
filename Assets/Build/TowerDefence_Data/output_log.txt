@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.222 seconds
+Platform assembly: C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\wangj\Desktop\TowerDefence\Build\TowerDefence_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.603701 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.234548 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.455451 ms (FindLiveObjects: 0.042337 ms CreateObjectMapping: 0.028225 ms MarkObjects: 0.377831 ms  DeleteObjects: 0.006414 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.266923 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2022.
+Total: 1.195719 ms (FindLiveObjects: 0.143050 ms CreateObjectMapping: 0.061582 ms MarkObjects: 0.818529 ms  DeleteObjects: 0.170633 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 18a78 -> priority: 1 
+  Thread -> id: 18a74 -> priority: 1 
